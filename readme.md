@@ -1,0 +1,9 @@
+just download the zip file from this link and extract.....
+
+https://drive.google.com/file/d/1gv9G4y9tZN5wCJR6L8by6ceBdc3Mqvse/view?usp=sharing
+
+you shud have opencv and numpy by then ...
+just run poundi.py and watch the wonders of deep learning
+...............
+
+hey mf i know this is not perfect as it is under development ... a heavy development yeah:!
